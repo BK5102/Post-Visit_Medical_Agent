@@ -1,1 +1,2 @@
-# Text cleaning, formatting
+# Shared functions: text cleaning, formatting, logging
+
