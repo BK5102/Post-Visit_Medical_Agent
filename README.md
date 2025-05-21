@@ -1,4 +1,4 @@
-# Post-Visit Medical Agent
+# Post-Visit Medical AI Agent Focused on Nutrition & Lifestyle Medicine
 
 ## rough outline of what agent does (need to modify later):
 
