@@ -1,0 +1,33 @@
+# Core ML & Data
+openai==1.10.0
+pandas==2.2.1
+scikit-learn==1.4.0
+pandas==2.2.1
+
+
+# Notebook/Dev
+ipykernel==6.29.5
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+ipython==9.0.2
+Pygments==2.19.1
+
+# Web App
+streamlit==1.33.0
+
+# Google APIs
+google-api-python-client==2.125.0
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+
+# Task & Reminder tools
+schedule==1.2.1  # or APScheduler==3.10.4
+
+# YouTube + Web tools
+beautifulsoup4==4.12.3
+requests==2.31.0
+youtube-search-python==1.6.6  # or use YouTube Data API with google-api-python-client
+
+# Utils
+python-dotenv==1.0.1
+tqdm==4.66.2
