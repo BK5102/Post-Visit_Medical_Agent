@@ -1,0 +1,252 @@
+[
+  {
+    "sentence":"Include more whole grains and legumes in your meals",
+    "category":"diet",
+    "explained":"Include more whole grains (Foods like brown rice and oats that support heart health and digestion) and legumes in your meals"
+  },
+  {
+    "sentence":"Avoid sugary snacks and processed desserts",
+    "category":"diet",
+    "explained":"Avoid sugary snacks and processed desserts"
+  },
+  {
+    "sentence":"Eat green leafy vegetables daily to reduce cholesterol",
+    "category":"diet",
+    "explained":"Eat green leafy vegetables (Vegetables like spinach and kale that are rich in fiber (Carbohydrate that helps digestion and controls blood sugar levels) and nutrients) daily to reduce cholesterol"
+  },
+  {
+    "sentence":"Reduce salt and saturated fat intake",
+    "category":"diet",
+    "explained":"Reduce salt and saturated fat (Type of fat that raises cholesterol and increases heart disease risk) intake"
+  },
+  {
+    "sentence":"Add omega-3 rich foods like flaxseed to your diet",
+    "category":"diet",
+    "explained":"Add omega-3 rich foods like flaxseed to your diet"
+  },
+  {
+    "sentence":"Increase daily fiber intake with fruits and vegetables",
+    "category":"diet",
+    "explained":"Increase daily fiber (Carbohydrate that helps digestion and controls blood sugar levels) intake with fruits and vegetables"
+  },
+  {
+    "sentence":"Switch from white bread to whole grain bread",
+    "category":"diet",
+    "explained":"Switch from white bread to whole grain bread"
+  },
+  {
+    "sentence":"Drink water instead of sugar-sweetened beverages",
+    "category":"diet",
+    "explained":"Drink water instead of sugar-sweetened beverages"
+  },
+  {
+    "sentence":"Avoid processed foods and cook meals at home",
+    "category":"diet",
+    "explained":"Avoid processed foods (Foods with added preservatives or ingredients, often low in nutrients) and cook meals at home"
+  },
+  {
+    "sentence":"Eat fatty fish like salmon twice a week",
+    "category":"diet",
+    "explained":"Eat fatty fish like salmon twice a week"
+  },
+  {
+    "sentence":"Take Metformin 500mg with breakfast and dinner",
+    "category":"medication",
+    "explained":"Take metformin (A drug used to manage high blood sugar in type 2 diabetes) 500mg with breakfast and dinner"
+  },
+  {
+    "sentence":"Start Atorvastatin 10mg once daily after dinner",
+    "category":"medication",
+    "explained":"Start atorvastatin (A medication used to lower cholesterol levels) 10mg once daily after dinner"
+  },
+  {
+    "sentence":"Continue Lisinopril 10mg every morning",
+    "category":"medication",
+    "explained":"Continue lisinopril (A drug used to treat high blood pressure and heart failure) 10mg every morning"
+  },
+  {
+    "sentence":"Take Amlodipine at the same time each day",
+    "category":"medication",
+    "explained":"Take amlodipine (A medication used to treat high blood pressure and chest pain) at the same time each day"
+  },
+  {
+    "sentence":"Refill your Levothyroxine prescription before it runs out",
+    "category":"medication",
+    "explained":"Refill your levothyroxine (A hormone replacement for treating hypothyroidism) prescription before it runs out"
+  },
+  {
+    "sentence":"Begin Hydrochlorothiazide for high blood pressure",
+    "category":"medication",
+    "explained":"Begin hydrochlorothiazide (A diuretic used to treat high blood pressure and swelling) for high blood pressure"
+  },
+  {
+    "sentence":"Do not skip your morning dose of Metformin",
+    "category":"medication",
+    "explained":"Do not skip your morning dose of metformin (A drug used to manage high blood sugar in type 2 diabetes)"
+  },
+  {
+    "sentence":"Take your cholesterol medication even if you feel fine",
+    "category":"medication",
+    "explained":"Take your cholesterol medication even if you feel fine"
+  },
+  {
+    "sentence":"Store your medications in a cool, dry place",
+    "category":"medication",
+    "explained":"Store your medications in a cool, dry place"
+  },
+  {
+    "sentence":"Ask your pharmacist if your medications can be taken together",
+    "category":"medication",
+    "explained":"Ask your pharmacist if your medications can be taken together"
+  },
+  {
+    "sentence":"Begin weekly cognitive behavioral therapy sessions",
+    "category":"therapy",
+    "explained":"Begin weekly cognitive behavioral therapy (A talk therapy for managing anxiety, depression, and behavior) sessions"
+  },
+  {
+    "sentence":"Practice mindfulness meditation each morning",
+    "category":"therapy",
+    "explained":"Practice mindfulness (A mental practice that involves focusing on the present moment) meditation each morning"
+  },
+  {
+    "sentence":"Attend physical therapy for your lower back pain",
+    "category":"therapy",
+    "explained":"Attend physical therapy (A rehab therapy to restore movement and reduce pain) for your lower back pain"
+  },
+  {
+    "sentence":"Try deep breathing exercises to reduce stress",
+    "category":"therapy",
+    "explained":"Try deep breathing exercises to reduce stress"
+  },
+  {
+    "sentence":"Stretch for 10 minutes after waking up",
+    "category":"therapy",
+    "explained":"Stretch for 10 minutes after waking up"
+  },
+  {
+    "sentence":"Join a group therapy session this weekend",
+    "category":"therapy",
+    "explained":"Join a group therapy session this weekend"
+  },
+  {
+    "sentence":"Use a yoga app to improve flexibility",
+    "category":"therapy",
+    "explained":"Use a yoga app to improve flexibility"
+  },
+  {
+    "sentence":"Walk for 30 minutes five days a week",
+    "category":"therapy",
+    "explained":"Walk for 30 minutes five days a week"
+  },
+  {
+    "sentence":"Track your mood and symptoms daily",
+    "category":"therapy",
+    "explained":"Track your mood and symptoms daily"
+  },
+  {
+    "sentence":"Listen to guided meditations before bedtime",
+    "category":"therapy",
+    "explained":"Listen to guided meditations before bedtime"
+  },
+  {
+    "sentence":"Set a daily reminder to take your morning medication",
+    "category":"reminder",
+    "explained":"Set a daily reminder to take your morning medication"
+  },
+  {
+    "sentence":"Log your meals in the app every evening",
+    "category":"reminder",
+    "explained":"Log your meals in the app every evening"
+  },
+  {
+    "sentence":"Set an alarm to check your blood pressure daily",
+    "category":"reminder",
+    "explained":"Set an alarm to check your blood pressure daily"
+  },
+  {
+    "sentence":"Enable push notifications for pill reminders",
+    "category":"reminder",
+    "explained":"Enable push notifications for pill reminders"
+  },
+  {
+    "sentence":"Use a calendar to track therapy appointments",
+    "category":"reminder",
+    "explained":"Use a calendar to track therapy appointments"
+  },
+  {
+    "sentence":"Place your pillbox next to your toothbrush",
+    "category":"reminder",
+    "explained":"Place your pillbox next to your toothbrush"
+  },
+  {
+    "sentence":"Install a medication reminder app",
+    "category":"reminder",
+    "explained":"Install a medication reminder (A prompt to help remember when to take medications) app"
+  },
+  {
+    "sentence":"Use sticky notes as visual medication prompts",
+    "category":"reminder",
+    "explained":"Use sticky notes as visual medication prompts"
+  },
+  {
+    "sentence":"Create a checklist for daily health tasks",
+    "category":"reminder",
+    "explained":"Create a checklist for daily health tasks"
+  },
+  {
+    "sentence":"Schedule weekly health summary reviews",
+    "category":"reminder",
+    "explained":"Schedule weekly health summary reviews"
+  },
+  {
+    "sentence":"Schedule a follow-up visit in two weeks",
+    "category":"followup",
+    "explained":"Schedule a follow-up (A scheduled check or appointment after initial treatment) visit in two weeks"
+  },
+  {
+    "sentence":"Book your next appointment with the dietitian",
+    "category":"followup",
+    "explained":"Book your next appointment with the dietitian"
+  },
+  {
+    "sentence":"Call the clinic to confirm your lab test schedule",
+    "category":"followup",
+    "explained":"Call the clinic to confirm your lab test schedule"
+  },
+  {
+    "sentence":"Follow up on your blood test results next Monday",
+    "category":"followup",
+    "explained":"Follow up on your blood test results next Monday"
+  },
+  {
+    "sentence":"Prepare for your annual wellness check",
+    "category":"followup",
+    "explained":"Prepare for your annual wellness check"
+  },
+  {
+    "sentence":"Arrange a phone consultation after starting new medication",
+    "category":"followup",
+    "explained":"Arrange a phone consultation after starting new medication"
+  },
+  {
+    "sentence":"Visit the clinic to review your blood pressure readings",
+    "category":"followup",
+    "explained":"Visit the clinic to review your blood pressure readings"
+  },
+  {
+    "sentence":"Set a calendar event for your next check-up",
+    "category":"followup",
+    "explained":"Set a calendar event for your next check-up"
+  },
+  {
+    "sentence":"Discuss your therapy progress in your next session",
+    "category":"followup",
+    "explained":"Discuss your therapy progress in your next session"
+  },
+  {
+    "sentence":"Have your cholesterol levels rechecked in 6 weeks",
+    "category":"followup",
+    "explained":"Have your cholesterol levels rechecked in 6 weeks"
+  }
+]
